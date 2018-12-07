@@ -13,7 +13,7 @@ Here you will find all assets, files, links and contact details for the [Maker](
 
 •  **Michael McKain**, product designer [@mikemckain in Rocketchat](chat.makerdao.com)
 
-## Products we are building
+## Projects we're actively working on
 •  CDP portal
 
 •  Governance
