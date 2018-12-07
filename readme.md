@@ -44,9 +44,9 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 ## Style guide
 These resources help unify brand, marketing, and product experience across Maker. Share your questions and thoughts in the #design-system-internal
 
-## Brand
+### Brand
 
-### Color
+#### Color
 
 •  Maker teal ![#1AAB9B](https://placehold.it/15/1AAB9B/000000?text=+) `#1AAB9B`
 
@@ -54,7 +54,7 @@ These resources help unify brand, marketing, and product experience across Maker
 
 •  Dai yellow ![#FFC926](https://placehold.it/15/FFC926/000000?text=+) `#FFC926`
 
-### Logos
+#### Logos
 LINK
 
 ## Writing
