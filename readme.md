@@ -84,6 +84,9 @@ Pull top 10-20 words from Jordan’s terminology list
 ## Research
 •  [Governance Usability insights](https://airtable.com/tblalBIbJVIMb8jOR/viwVNx9eDKCqiKL2g) *request access in design-internal*
 
+•  [CDP Metal Models](https://airtable.com/tbl4psktne6ESePll/viwd34sTepkK8Vawn) *request access in design-internal*
+
+
 
 
 ## Useful links
