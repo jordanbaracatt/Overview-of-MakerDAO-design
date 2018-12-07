@@ -89,7 +89,7 @@ Pull top 10-20 words from Jordan’s terminology list
 
 •  [CDP Metal Models](https://airtable.com/tbl4psktne6ESePll/viwd34sTepkK8Vawn)
 
-*request access in design-internal*
+*Maker team members can request access in design-internal*
 
 
 ## Useful links
