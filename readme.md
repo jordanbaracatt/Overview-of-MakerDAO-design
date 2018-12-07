@@ -9,6 +9,12 @@ Here you will find all assets, files, links and contact details for the [Maker](
 
 [Style guide →](https://github.com/hcdoe/Overview-of-MakerDAO-design#style-guide)
 
+[Writing →](https://github.com/hcdoe/Overview-of-MakerDAO-design#writing)
+
+[Research →](https://github.com/hcdoe/Overview-of-MakerDAO-design#research)
+
+[Useful links →](https://github.com/hcdoe/Overview-of-MakerDAO-design#useful-links)
+
 
 
 ---
