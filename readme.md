@@ -8,23 +8,11 @@ Here you will find all assets, files, links and contact details for the [Maker](
 
 
 ## Style guide
-### Goals
-•  Promote consistency across all touch points
-
-•  Share a common language between teams
-
-•  Create reusable components and patterns across products
-
-•  Better collaboration between design and development
-
-•  Help onboard new team members
-
-### Introduction
 These resources help unify brand, marketing, and product experience across Maker. Share your questions and thoughts in the #design-system-internal
 
-### Brand
+## Brand
 
-#### Color
+### Color
 
 •  Maker teal ![#1AAB9B](https://placehold.it/15/1AAB9B/000000?text=+) `#1AAB9B`
 
@@ -33,8 +21,8 @@ These resources help unify brand, marketing, and product experience across Maker
 •  Dai yellow ![#FFC926](https://placehold.it/15/FFC926/000000?text=+) `#FFC926`
 
 
-### Writing
-#### Tone & voice 
+## Writing
+### Tone & voice 
 •  Be concise
 
 •  Use short sentences
