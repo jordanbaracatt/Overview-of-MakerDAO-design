@@ -2,7 +2,10 @@
 
 Here you will find all assets, files, links and contact details for the [Maker](https://makerdao.com/) design team. 
 
+## Contents
 [Design team →](https://github.com/hcdoe/Overview-of-MakerDAO-design#design-team)
+
+[Projects we're working on →](https://github.com/hcdoe/Overview-of-MakerDAO-design#projects-were-actively-working-on)
 
 ---
 
@@ -15,7 +18,7 @@ Here you will find all assets, files, links and contact details for the [Maker](
 
 •  **Michael McKain**, product designer [@mikemckain in Rocketchat](chat.makerdao.com)
 
-## Projects we're actively working on
+## Projects we're working on
 •  CDP portal
 
 •  Governance
