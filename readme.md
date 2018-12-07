@@ -43,7 +43,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 •  [Design system](https://www.figma.com/file/WD1TVy5hFtVkWgd7hvhbzFIe/Components?node-id=1595%3A36)
 
-•  Marketing website
+•  [Marketing website](https://www.figma.com/file/BJKZPfODBGLwxkpTJuxdj6Kb/makerdao.com?node-id=0%3A1)
 
 *Maker team members can request access in design-internal*
 
