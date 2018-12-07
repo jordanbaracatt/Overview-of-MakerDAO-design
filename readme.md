@@ -4,7 +4,7 @@ Here you will find all assets, files, links and contact details for the [Maker](
 
 ---
 
-## Maker design team
+## Design team
 •  **Henry Doe**, design team lead [@hennny in Rocketchat](chat.makerdao.com)
 
 •  **Jordan Jackson**, research & usability [@jordan.jackson in Rocketchat](chat.makerdao.com)
