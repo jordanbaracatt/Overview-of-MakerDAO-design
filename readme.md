@@ -51,7 +51,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 We're always keep to hear from people using the Maker system. If you have any questions, suggestions or feedback you can find us in the Rocketchat room [#product-feedback](https://chat.makerdao.com/home)
 
-For Maker team members we are logging all [usability issues here](https://docs.google.com/spreadsheets/d/18X4y-87m5flC9iH4RkWUXD64i_H-FM0QUHlEoiqhRxw/edit#gid=0)
+For Maker team members we are logging all [usability issues here →](https://docs.google.com/spreadsheets/d/18X4y-87m5flC9iH4RkWUXD64i_H-FM0QUHlEoiqhRxw/edit#gid=0)
 
 
 
