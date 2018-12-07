@@ -65,7 +65,7 @@ LINK
 
 ## Writing
 ### Tone & voice 
-•  Be concise
+•  **Be concise**
 
     •  Use short sentences
 
@@ -75,7 +75,7 @@ LINK
 
     •  Remove anything redundant or irrelevant
 
-•  Make it accessible
+•  **Make it accessible**
 
     •  International audience
 
@@ -87,7 +87,7 @@ LINK
 
     •  Use consistent terminology 
 
-•  Avoid promotional language
+•  **Avoid promotional language**
 
 
 ### Terminology
