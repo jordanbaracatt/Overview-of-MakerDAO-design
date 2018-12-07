@@ -14,7 +14,7 @@ Here you will find all assets, files, links and contact details for the [Maker](
 ---
 
 ## Design team
-•  **Henry Doe**, design team lead [@hennny](https://chat.makerdao.com/home)
+  •  **Henry Doe**, design team lead [@hennny](https://chat.makerdao.com/home)
 
 •  **Jordan Jackson**, research & usability [@jordan.jackson](https://chat.makerdao.com/home)
 
