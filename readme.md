@@ -100,7 +100,7 @@ LINK
 
 
 ### Terminology
-Pull top 10-20 words from Jordan’s terminology list
+A full list of [terms and definitions →](https://airtable.com/shr93DOZR1FHNJv4Y/tblv6XRHv27cAvKad)
 
 ---
 
