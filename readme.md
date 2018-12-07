@@ -6,12 +6,19 @@ Here you will find all assets, files, links and contact details for the [Maker](
 
 ## Products we are building
 •  CDP portal
+
 •  Governance
+
 •  Auctions
+
 •  Dai Savings
+
 •  Dai and MKR Redeemer
+
 •  Design system
+
 •  Marketing website
+
 
 Latest design are in Figma. Any Maker member can request access in design-internal
 
