@@ -47,6 +47,8 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 ### Product research 
 • **CDP portal** Jobs to be Done | Mental models | Usability
+• **Governance** Jobs to be Done | Mental models | Usability
+• **Dai savings** Jobs to be Done | Mental models | Usability
 
 
 *Maker team members can request access in design-internal*
