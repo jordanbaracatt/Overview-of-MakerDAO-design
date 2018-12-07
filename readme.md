@@ -47,8 +47,10 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 *Maker team members can request access in design-internal*
 
+If you have any product suggestions or feedback please find us in [#product-feedback](https://chat.makerdao.com/home)
+
 ## Style guide
-These resources help unify brand, marketing, and product experience across Maker. Share your questions and thoughts in the #design-system-internal
+These resources help unify brand, marketing, and product experience across Maker. Share your questions and thoughts in the [#design-system-internal](https://chat.makerdao.com/home)
 
 ### Color
 
