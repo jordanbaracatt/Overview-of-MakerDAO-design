@@ -23,6 +23,7 @@ These resources help unify brand, marketing, and product experience across Maker
 ### Brand
 
 Color
+
 • Maker teal: ■ #1AAB9B
 
 • Maker orange: ■ #F77249
