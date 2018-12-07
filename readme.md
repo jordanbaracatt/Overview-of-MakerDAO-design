@@ -24,7 +24,8 @@ These resources help unify brand, marketing, and product experience across Maker
 
 Color
 
-• Maker teal: ■ #1AAB9B
+• Maker teal - ![#1AAB9B](https://placehold.it/15/1AAB9B/000000?text=+) `#1AAB9B`
+
 
 • Maker orange: ■ #F77249
 
