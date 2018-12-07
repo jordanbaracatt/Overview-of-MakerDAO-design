@@ -4,6 +4,15 @@ Here you will find all assets, files, links and contact details for the [Maker](
 
 ---
 
+## Maker design team
+•  **Henry Doe**, design team lead [@hennny in Rocketchat](chat.makerdao.com)
+
+•  **Jordan Jackson**, research & usability [@jordan.jackson in Rocketchat](chat.makerdao.com)
+
+•  **David Kim**, product designer [@dkim in Rocketchat](chat.makerdao.com)
+
+•  **Michael McKain**, product designer [@mikemckain in Rocketchat](chat.makerdao.com)
+
 ## Products we are building
 •  CDP portal
 
