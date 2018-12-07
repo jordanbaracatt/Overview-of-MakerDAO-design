@@ -2,6 +2,8 @@
 
 Here you will find all assets, files, links and contact details for the [Maker](https://makerdao.com/) design team. 
 
+[Design team →](https://github.com/hcdoe/Overview-of-MakerDAO-design#design-team)
+
 ---
 
 ## Design team
