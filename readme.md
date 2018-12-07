@@ -37,7 +37,7 @@ Here you will find all assets, files, links and contact details for the [Maker](
 
 •  Marketing website
 
-*Latest designs are in Figma. Maker team members can request access in design-internal*
+*Maker team members can request access in design-internal*
 
 ## Style guide
 These resources help unify brand, marketing, and product experience across Maker. Share your questions and thoughts in the #design-system-internal
