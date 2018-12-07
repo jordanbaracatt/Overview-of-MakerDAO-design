@@ -105,7 +105,10 @@ A full list of [terms and definitions →](https://airtable.com/shr93DOZR1FHNJv4
 ---
 
 ## Research
-### Public
+### CDP portal
+• Jobs to be Done
+• Mental models
+• Usability
 
 ### Private
 •  [Governance Usability insights](https://airtable.com/tblalBIbJVIMb8jOR/viwVNx9eDKCqiKL2g) 
