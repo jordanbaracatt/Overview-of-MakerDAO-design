@@ -11,8 +11,6 @@ This page serves as a wiki for the MakerDAO design team. Its meant to serve both
 
 [Writing →](https://github.com/hcdoe/Overview-of-MakerDAO-design#writing)
 
-[Research →](https://github.com/hcdoe/Overview-of-MakerDAO-design#research)
-
 [Useful links →](https://github.com/hcdoe/Overview-of-MakerDAO-design#useful-links)
 
 
