@@ -31,19 +31,19 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 •  **Michael McKain**, product designer [@mikemckain](https://chat.makerdao.com/home)
 
 ## Projects we're working on
-•  [CDP portal](https://www.figma.com/file/L89YEqsCYo0yZ07Lwc5dVBaJ/Multi-Collateral-CDP-Portal?node-id=168%3A12)
+•  [CDP portal →](https://www.figma.com/file/L89YEqsCYo0yZ07Lwc5dVBaJ/Multi-Collateral-CDP-Portal?node-id=168%3A12)
 
-•  [Governance](https://www.figma.com/file/P3WU8leDECFDItgLx4gh22t9/Governance?node-id=227%3A11)
+•  [Governance →](https://www.figma.com/file/P3WU8leDECFDItgLx4gh22t9/Governance?node-id=227%3A11)
 
-•  Auctions
+•  Auctions →
 
-•  Dai Savings
+•  Dai Savings →
 
-•  Dai and MKR Redeemer
+•  Dai and MKR Redeemer →
 
-•  [Design system](https://www.figma.com/file/WD1TVy5hFtVkWgd7hvhbzFIe/Components?node-id=1595%3A36)
+•  [Design system →](https://www.figma.com/file/WD1TVy5hFtVkWgd7hvhbzFIe/Components?node-id=1595%3A36)
 
-•  [Marketing website](https://www.figma.com/file/BJKZPfODBGLwxkpTJuxdj6Kb/makerdao.com?node-id=0%3A1)
+•  [Marketing website →](https://www.figma.com/file/BJKZPfODBGLwxkpTJuxdj6Kb/makerdao.com?node-id=0%3A1)
 
 *Maker team members can request access in design-internal*
 
