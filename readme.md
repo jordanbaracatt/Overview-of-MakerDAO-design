@@ -14,7 +14,7 @@ Here you will find all assets, files, links and contact details for the [Maker](
 ---
 
 ## Design team
-We're a remote design of 4. Currently located in Asia, UK, USA and Canda. We're currently looking to add an [experienced product designer](https://makerdao.com/careers/product-designer) to the team
+We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. We're currently looking to add an [experienced product designer](https://makerdao.com/careers/product-designer) to the team
 
 •  **Henry Doe**, design team lead [@hennny](https://chat.makerdao.com/home)
 
