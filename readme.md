@@ -24,12 +24,12 @@ These resources help unify brand, marketing, and product experience across Maker
 
 Color
 
-• Maker teal - ![#1AAB9B](https://placehold.it/15/1AAB9B/000000?text=+) `#1AAB9B`
+• Maker teal ![#1AAB9B](https://placehold.it/15/1AAB9B/000000?text=+) `#1AAB9B`
 
+• Maker orange ![#F77249](https://placehold.it/15/F77249/000000?text=+) `#F77249`
 
-• Maker orange: ■ #F77249
+• Dai yellow ![#FFC926](https://placehold.it/15/FFC926/000000?text=+) `#FFC926`
 
-• Dai yellow: ■ #FFC926
 
 How to use
 
