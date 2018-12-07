@@ -23,7 +23,7 @@ Here you will find all assets, files, links and contact details for the [Maker](
 •  **Michael McKain**, product designer [@mikemckain](https://chat.makerdao.com/home)
 
 ## Projects we're working on
-•  CDP portal
+•  [CDP portal](https://www.figma.com/file/L89YEqsCYo0yZ07Lwc5dVBaJ/Multi-Collateral-CDP-Portal?node-id=168%3A12)
 
 •  [Governance](https://www.figma.com/file/P3WU8leDECFDItgLx4gh22t9/Governance?node-id=227%3A11)
 
