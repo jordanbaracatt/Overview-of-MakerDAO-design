@@ -33,7 +33,7 @@ Here you will find all assets, files, links and contact details for the [Maker](
 
 •  Dai and MKR Redeemer
 
-•  Design system
+•  [Design system](https://www.figma.com/file/WD1TVy5hFtVkWgd7hvhbzFIe/Components?node-id=1595%3A36)
 
 •  Marketing website
 
