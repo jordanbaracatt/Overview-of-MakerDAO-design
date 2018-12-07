@@ -82,10 +82,10 @@ Pull top 10-20 words from Jordan’s terminology list
 
 
 ## Research
-
+•  [Governance Usability insights](https://airtable.com/tblalBIbJVIMb8jOR/viwVNx9eDKCqiKL2g) *request access in design-internal*
 
 
 
 ## Useful links
 
-[What is Jobs to be Done (JTBD)?](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
+•  [What is Jobs to be Done (JTBD)?](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
