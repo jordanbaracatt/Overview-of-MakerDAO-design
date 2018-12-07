@@ -5,7 +5,7 @@ Here you will find all assets, files, links and contact details for the [Maker](
 ## Contents
 [Design team →](https://github.com/hcdoe/Overview-of-MakerDAO-design#design-team)
 
-[Projects we're working on →](https://github.com/hcdoe/Overview-of-MakerDAO-design#projects-were-actively-working-on)
+[Projects we're working on →](https://github.com/hcdoe/Overview-of-MakerDAO-design#projects-were-working-on)
 
 ---
 
