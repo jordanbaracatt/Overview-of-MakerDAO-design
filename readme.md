@@ -47,6 +47,17 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 *Maker team members can request access in design-internal*
 
+### Product research
+### CDP portal
+• Jobs to be Done
+
+• Mental models
+
+• Usability
+
+
+*Maker team members can request access in design-internal*
+
 ### Product feedback 
 
 We're always keep to hear from people using the Maker system. If you have any questions, suggestions or feedback you can find us in the Rocketchat room [#product-feedback](https://chat.makerdao.com/home)
@@ -103,22 +114,6 @@ LINK
 A full list of [terms and definitions →](https://airtable.com/shr93DOZR1FHNJv4Y/tblv6XRHv27cAvKad)
 
 ---
-
-## Research
-### CDP portal
-• Jobs to be Done
-
-• Mental models
-
-• Usability
-
-
-### Private
-•  [Governance Usability insights](https://airtable.com/tblalBIbJVIMb8jOR/viwVNx9eDKCqiKL2g) 
-
-•  [CDP Metal Models](https://airtable.com/tbl4psktne6ESePll/viwd34sTepkK8Vawn)
-
-*Maker team members can request access in design-internal*
 
 
 ## Useful links
