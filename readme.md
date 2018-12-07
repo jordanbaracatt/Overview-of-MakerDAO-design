@@ -34,18 +34,31 @@ These resources help unify brand, marketing, and product experience across Maker
 ### Writing
 #### Tone & voice 
 •  Be concise
+
 •  Use short sentences
+
 •  Break up paragraphs longer than 3 sentences
+
 •  Avoid using passive voice
+
 •  Remove anything redundant or irrelevant
+
 •  Make it accessible
+
 •  International audience
+
 •  Welcome newcomers
+
 •  Act on accessibility and inclusiveness
+
 •  Avoid acronyms and non-actionable data
+
 •  Use consistent terminology 
+
 •  Earnest
+
 •  Avoid promotional language
+
 
 #### Terminology
 Pull top 10-20 words from Jordan’s terminology list
