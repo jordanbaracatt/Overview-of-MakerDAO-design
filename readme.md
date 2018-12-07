@@ -7,6 +7,10 @@ Here you will find all assets, files, links and contact details for the [Maker](
 
 [Projects we're working on →](https://github.com/hcdoe/Overview-of-MakerDAO-design#projects-were-working-on)
 
+[Style guide →](https://github.com/hcdoe/Overview-of-MakerDAO-design#style-guide)
+
+
+
 ---
 
 ## Design team
