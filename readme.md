@@ -25,7 +25,7 @@ Here you will find all assets, files, links and contact details for the [Maker](
 ## Projects we're working on
 •  CDP portal
 
-•  [Governance] (https://www.figma.com/file/P3WU8leDECFDItgLx4gh22t9/Governance?node-id=227%3A11)
+•  [Governance](https://www.figma.com/file/P3WU8leDECFDItgLx4gh22t9/Governance?node-id=227%3A11)
 
 •  Auctions
 
