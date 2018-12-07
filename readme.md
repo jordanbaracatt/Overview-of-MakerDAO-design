@@ -2,6 +2,8 @@
 
 Here you will find all assets, files, links and contact details for the [Maker](https://makerdao.com/) design team. 
 
+---
+
 ## Products we are building
 
 
@@ -63,7 +65,7 @@ These resources help unify brand, marketing, and product experience across Maker
 #### Terminology
 Pull top 10-20 words from Jordan’s terminology list
 
-
+---
 
 
 ## Research
