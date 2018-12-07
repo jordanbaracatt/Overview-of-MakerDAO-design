@@ -20,6 +20,8 @@ These resources help unify brand, marketing, and product experience across Maker
 
 •  Dai yellow ![#FFC926](https://placehold.it/15/FFC926/000000?text=+) `#FFC926`
 
+### Logos
+LINK
 
 ## Writing
 ### Tone & voice 
@@ -50,7 +52,7 @@ These resources help unify brand, marketing, and product experience across Maker
 •  Avoid promotional language
 
 
-#### Terminology
+### Terminology
 Pull top 10-20 words from Jordan’s terminology list
 
 ---
