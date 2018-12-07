@@ -67,27 +67,25 @@ LINK
 ### Tone & voice 
 •  Be concise
 
-•  Use short sentences
+    •  Use short sentences
 
-•  Break up paragraphs longer than 3 sentences
+    •  Break up paragraphs longer than 3 sentences
 
-•  Avoid using passive voice
+    •  Avoid using passive voice
 
-•  Remove anything redundant or irrelevant
+    •  Remove anything redundant or irrelevant
 
 •  Make it accessible
 
-•  International audience
+    •  International audience
 
-•  Welcome newcomers
+    •  Welcome newcomers
 
-•  Act on accessibility and inclusiveness
+    •  Act on accessibility and inclusiveness
 
-•  Avoid acronyms and non-actionable data
+    •  Avoid acronyms and non-actionable data
 
-•  Use consistent terminology 
-
-•  Earnest
+    •  Use consistent terminology 
 
 •  Avoid promotional language
 
