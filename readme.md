@@ -56,7 +56,7 @@ Jobs to be Done | Mental models | Usability
 
 **CDP Jobs To Be Done**
 
-    *Jobs To Be Done is a way to understand what motivates users to seek and use CDPs.*  
+*Jobs To Be Done is a way to understand what motivates users to seek and use CDPs.* 
 
 
 
@@ -66,8 +66,7 @@ JTBD Map & Airtable (Coming soon)
 
 **CDP Key Moments** 
 
-
-    * CDP Key Moments are the moments that we have observed to elicit the most positive emotion in user after a series of actions.*  
+*CDP Key Moments are the moments that we have observed to elicit the most positive emotion in user after a series of actions.*  
 
 
 (Airtable coming soon) 
@@ -76,8 +75,7 @@ JTBD Map & Airtable (Coming soon)
 
 **CDP Mental Models**  
 
-
-    *CDP Mental models help us map what users are thinking, feeling and believing along their journey with CDPs such that we can build things they understand. From the moment they start searching to the moment they close their position.*  
+*CDP Mental models help us map what users are thinking, feeling and believing along their journey with CDPs such that we can build things they understand. From the moment they start searching to the moment they close their position.*  
 
 
 
@@ -99,7 +97,7 @@ JTBD Map & Airtable (Coming soon)
 
 **CDP Usability** 
 
-    *Usability helps us answer the question: can users understand features and perform tasks that are fundamental to               successfully using the CDP Portal?*
+*Usability helps us answer the question: can users understand features and perform tasks that are fundamental to               successfully using the CDP Portal?*
 
 
 
