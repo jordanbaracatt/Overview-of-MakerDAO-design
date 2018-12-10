@@ -57,7 +57,8 @@ Jobs to be Done | Mental models | Usability
 **CDP Jobs To Be Done**
 
 
-**Jobs To Be Done is a way to understand what motivates users to seek and use CDPs.**  
+*Jobs To Be Done is a way to understand what motivates users to seek and use CDPs.*  
+
 
 
 JTBD Map & Airtable (Coming soon) 
@@ -67,8 +68,7 @@ JTBD Map & Airtable (Coming soon)
 **CDP Key Moments** 
 
 
-**CDP Key Moments are the moments that we have observed to elicit the most positive emotion in user after a series of actions.**  
-
+*CDP Key Moments are the moments that we have observed to elicit the most positive emotion in user after a series of actions.  
 
 
 (Airtable coming soon) 
@@ -78,45 +78,42 @@ JTBD Map & Airtable (Coming soon)
 **CDP Mental Models**  
 
 
-**CDP Mental models help us map what users are thinking, feeling and believing along their journey with CDPs such that we can build things they understand. From the moment they start searching to the moment they close their position.**  
+*CDP Mental models help us map what users are thinking, feeling and believing along their journey with CDPs such that we can build things they understand. From the moment they start searching to the moment they close their position.*  
 
 
 
 **CDP Mental Models Artifact** 
 
-   * [https://airtable.com/invite/l? inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d)   
+   * [CDP Mental Models along the the user journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d)   
 
 
 **CDP - Initial Engagement and User on-boarding initial thoughts**
 
-   * [https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit)   
+   * [CDP Onboarding Observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit)   
 
 
-**CDP High level Insights and findings from users (Dai.dashboard.com —> [cdp.makerdao.com](http://cdp.makerdao.com))** 
+**CDP High level Insights and findings from users (Dai.dashboard.com —> (cdp.makerdao.com)** 
 
-   * [https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
+   * [General CDP UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
 
 
 
 **CDP Usability** 
 
-Usability helps us answer the question: can users understand features and perform tasks that are fundamental to               successfully using the CDP Portal?  
+  *Usability helps us answer the question: can users understand features and perform tasks that are fundamental to               successfully using the CDP Portal?  
 
 
 
 **CDP Airtable List of observed usability issues to date** 
 
-   * [https://airtable.com/shrDjJvA5uahFnvBk](https://airtable.com/shrDjJvA5uahFnvBk) 
+   * [CDP Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
 
 
-**CDP Usability V1 (Dai.dashboard.com —> [cdp.makerdao.com](http://cdp.makerdao.com))** 
+**CDP Usability V1 (Dai.dashboard.com —> (cdp.makerdao.com)** 
 
-   * [https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit]       (https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit)  
+   * [CDP V1 Usability Report](https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit)  
 
 
-**CDP Usability Notes (dai.makerdao.com —> [cdp.makerdao.com](http://cdp.makerdao.com)** 
-
-   * [https://docs.google.com/document/d/1Uf_sqDhFqKYYW4xo-MIi25TuO4jJy9v9q9Sgmpu0658/edit](https://docs.google.com/document/d/1Uf_sqDhFqKYYW4xo-MIi25TuO4jJy9v9q9Sgmpu0658/edit)
 
 
 **Governance** Jobs to be Done | Mental models | Usability
@@ -194,11 +191,11 @@ A full list of [terms and definitions →](https://airtable.com/shr93DOZR1FHNJv4
 
 •  [How to use Jobs To Be Done?](https://justinjackson.ca/what-is-jobs-to-be-done)    
 
-*  [What are key user moments?](https://alexiskold.net/2016/06/01/what-is-the-magic-moment-for-your-startup/)  
+•  [What are key user moments?](https://alexiskold.net/2016/06/01/what-is-the-magic-moment-for-your-startup/)  
 
-*  [How to use usability findings?](https://www.nngroup.com/articles/the-most-important-usability-activity/)  
+•  [How to use usability findings?](https://www.nngroup.com/articles/the-most-important-usability-activity/)  
 
-*  [How to use mental models?](https://www.nngroup.com/articles/mental-models/) 
+•  [How to use mental models?](https://www.nngroup.com/articles/mental-models/) 
 
 
 
