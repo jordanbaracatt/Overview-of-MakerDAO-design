@@ -49,7 +49,8 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 ## Product research 
 
 
-**CDP portal** 
+### CDP portal 
+
 Jobs to be Done | Mental models | Usability 
 
 
@@ -60,7 +61,13 @@ Jobs to be Done | Mental models | Usability
 
 
 
+
+
+
 JTBD Map & Airtable (Coming soon) 
+
+
+
 
 
 
@@ -69,7 +76,12 @@ JTBD Map & Airtable (Coming soon)
 *CDP Key Moments are the moments that we have observed to elicit the most positive emotion in user after a series of actions.*  
 
 
+
+
+
 (Airtable coming soon) 
+
+
 
 
 
@@ -79,9 +91,16 @@ JTBD Map & Airtable (Coming soon)
 
 
 
+
+
+
 **CDP Mental Models Artifact** 
 
    * [CDP Mental Models along the the user journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d)   
+
+
+
+
 
 
 **CDP - Initial Engagement and User on-boarding initial thoughts**
@@ -89,9 +108,16 @@ JTBD Map & Airtable (Coming soon)
    * [CDP Onboarding Observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit)   
 
 
+
+
+
+
 **CDP High level Insights and findings from users (Dai.dashboard.com —> (cdp.makerdao.com)** 
 
    * [General CDP UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
+
+
+
 
 
 
@@ -101,9 +127,16 @@ JTBD Map & Airtable (Coming soon)
 
 
 
+
+
+
 **CDP Airtable List of observed usability issues to date** 
 
    * [CDP Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
+
+
+
+
 
 
 **CDP Usability V1 (Dai.dashboard.com —> (cdp.makerdao.com)** 
