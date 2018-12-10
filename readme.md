@@ -54,14 +54,10 @@ Jobs to be Done | Mental models | Usability
 
 
 
-
 **CDP Jobs To Be Done**
 
 
 **Jobs To Be Done is a way to understand what motivates users to seek and use CDPs.**  
-
-How to use Jobs To Be Done? Jobs To Be Done can be used to help you think about any solutions that will help the user make their life better with CDPs. [Here is a great a FAQ about Jobs To Be Done.](https://justinjackson.ca/what-is-jobs-to-be-done)
-
 
 
 JTBD Map & Airtable (Coming soon) 
@@ -74,7 +70,6 @@ JTBD Map & Airtable (Coming soon)
 **CDP Key Moments are the moments that we have observed to elicit the most positive emotion in user after a series of actions.**  
 
 
-How to use key moments? Understanding the points that users find to be particularly positive will help us reduce the amount of friction that we create along the path to the moment. [Here is a great post about key user moments.](https://alexiskold.net/2016/06/01/what-is-the-magic-moment-for-your-startup/) 
 
 (Airtable coming soon) 
 
@@ -85,51 +80,49 @@ How to use key moments? Understanding the points that users find to be particula
 
 **CDP Mental models help us map what users are thinking, feeling and believing along their journey with CDPs such that we can build things they understand. From the moment they start searching to the moment they close their position.**  
 
-**How to use mental models?** Mental models can help us conform to existing user mental models or help us change existing user mental models that are not accurate. [Here is a great short article about mental models in UX.](https://www.nngroup.com/articles/mental-models/)
 
 
 **CDP Mental Models Artifact** 
 
-[https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d)   
+   * [https://airtable.com/invite/l? inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d)   
 
 
 **CDP - Initial Engagement and User on-boarding initial thoughts**
 
-[https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit)   
+   * [https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit)   
 
 
 **CDP High level Insights and findings from users (Dai.dashboard.com —> [cdp.makerdao.com](http://cdp.makerdao.com))** 
 
-[https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
+   * [https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
 
 
 
 **CDP Usability** 
 
-Usability helps us answer the question: can users understand features and perform tasks that are fundamental to successfully using the CDP Portal?  
+Usability helps us answer the question: can users understand features and perform tasks that are fundamental to               successfully using the CDP Portal?  
 
-How to use usability findings? Usability provides a specific lens in which anyone can alter or remove specific elements on an interface that users find confusing or misleading. Here is a great short article about the importance of usability. [Here is a great short article about the importance of usability.](https://www.nngroup.com/articles/the-most-important-usability-activity/) 
 
 
 **CDP Airtable List of observed usability issues to date** 
 
-[https://airtable.com/shrDjJvA5uahFnvBk](https://airtable.com/shrDjJvA5uahFnvBk) 
+   * [https://airtable.com/shrDjJvA5uahFnvBk](https://airtable.com/shrDjJvA5uahFnvBk) 
 
 
 **CDP Usability V1 (Dai.dashboard.com —> [cdp.makerdao.com](http://cdp.makerdao.com))** 
 
-[https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit](https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit)  
+   * [https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit]       (https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit)  
 
 
-**CDP Usability Notes (dai.makerdao.com —> [cdp.makerd](http://cdp.makerdo.com)ao.com)** 
+**CDP Usability Notes (dai.makerdao.com —> [cdp.makerdao.com](http://cdp.makerdao.com)** 
 
-[https://docs.google.com/document/d/1Uf_sqDhFqKYYW4xo-MIi25TuO4jJy9v9q9Sgmpu0658/edit](https://docs.google.com/document/d/1Uf_sqDhFqKYYW4xo-MIi25TuO4jJy9v9q9Sgmpu0658/edit)
+   * [https://docs.google.com/document/d/1Uf_sqDhFqKYYW4xo-MIi25TuO4jJy9v9q9Sgmpu0658/edit](https://docs.google.com/document/d/1Uf_sqDhFqKYYW4xo-MIi25TuO4jJy9v9q9Sgmpu0658/edit)
 
 
-• **Governance** Jobs to be Done | Mental models | Usability
+**Governance** Jobs to be Done | Mental models | Usability
 Coming soon... 
 
-• **Dai savings** Jobs to be Done | Mental models | Usability
+**Dai savings** Jobs to be Done | Mental models | Usability
 Coming soon ... 
 
 
@@ -197,4 +190,17 @@ A full list of [terms and definitions →](https://airtable.com/shr93DOZR1FHNJv4
 
 •  [What Is a Design System?](https://forumone.com/ideas/what-is-design-system)
 
-•  [What is Jobs to be Done (JTBD)?](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)
+•  [What is Jobs to be Done (JTBD)?](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca) 
+
+•  [How to use Jobs To Be Done?](https://justinjackson.ca/what-is-jobs-to-be-done)    
+
+*  [What are key user moments?](https://alexiskold.net/2016/06/01/what-is-the-magic-moment-for-your-startup/)  
+
+*  [How to use usability findings?](https://www.nngroup.com/articles/the-most-important-usability-activity/)  
+
+*  [How to use mental models?](https://www.nngroup.com/articles/mental-models/) 
+
+
+
+
+
