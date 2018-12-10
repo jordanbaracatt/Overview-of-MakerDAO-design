@@ -49,7 +49,9 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 ## Product research 
 
 
-• **CDP portal** Jobs to be Done | Mental models | Usability 
+**CDP portal** 
+Jobs to be Done | Mental models | Usability 
+
 
 
 
@@ -61,12 +63,8 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 How to use Jobs To Be Done? Jobs To Be Done can be used to help you think about any solutions that will help the user make their life better with CDPs. [Here is a great a FAQ about Jobs To Be Done.](https://justinjackson.ca/what-is-jobs-to-be-done)
 
 
-**Original JTBD Assumptions based on preliminary research** 
 
-[https://docs.google.com/document/d/1276EvcLbc8J96icTkaErVswNb53QSR4B2qD4XfwN--w/edit?usp=sharing](https://docs.google.com/document/d/1276EvcLbc8J96icTkaErVswNb53QSR4B2qD4XfwN--w/edit?usp=sharing) 
-
-
-New JTBD Map (Coming soon) 
+JTBD Map & Airtable (Coming soon) 
 
 
 
