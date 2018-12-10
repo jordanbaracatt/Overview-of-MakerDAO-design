@@ -45,13 +45,16 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 *Maker team members can request access in design-internal*
 
-### Product research 
+
+## Product research 
 
 
 • **CDP portal** Jobs to be Done | Mental models | Usability 
 
 
+
 **CDP Jobs To Be Done**
+
 
 **Jobs To Be Done is a way to understand what motivates users to seek and use CDPs.**  
 
@@ -66,32 +69,41 @@ How to use Jobs To Be Done? Jobs To Be Done can be used to help you think about 
 New JTBD Map (Coming soon) 
 
 
+
 **CDP Key Moments** 
 
+
 **CDP Key Moments are the moments that we have observed to elicit the most positive emotion in user after a series of actions.**  
+
 
 How to use key moments? Understanding the points that users find to be particularly positive will help us reduce the amount of friction that we create along the path to the moment. [Here is a great post about key user moments.](https://alexiskold.net/2016/06/01/what-is-the-magic-moment-for-your-startup/) 
 
 (Airtable coming soon) 
 
 
+
 **CDP Mental Models**  
+
 
 **CDP Mental models help us map what users are thinking, feeling and believing along their journey with CDPs such that we can build things they understand. From the moment they start searching to the moment they close their position.**  
 
 **How to use mental models?** Mental models can help us conform to existing user mental models or help us change existing user mental models that are not accurate. [Here is a great short article about mental models in UX.](https://www.nngroup.com/articles/mental-models/)
 
+
 **CDP Mental Models Artifact** 
 
 [https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d)   
+
 
 **CDP - Initial Engagement and User on-boarding initial thoughts**
 
 [https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit)   
 
+
 **CDP High level Insights and findings from users (Dai.dashboard.com —> [cdp.makerdao.com](http://cdp.makerdao.com))** 
 
 [https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
+
 
 
 **CDP Usability** 
