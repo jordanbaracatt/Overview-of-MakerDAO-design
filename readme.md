@@ -94,7 +94,7 @@ JTBD Map & Airtable (Coming soon)
 
 
 
-**CDP Mental Models Artifact** 
+
 
    * [CDP Mental Models along the the user journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d)   
 
@@ -103,7 +103,7 @@ JTBD Map & Airtable (Coming soon)
 
 
 
-**CDP - Initial Engagement and User on-boarding initial thoughts**
+
 
    * [CDP Onboarding Observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit)   
 
@@ -112,9 +112,9 @@ JTBD Map & Airtable (Coming soon)
 
 
 
-**CDP High level Insights and findings from users (Dai.dashboard.com —> (cdp.makerdao.com)** 
 
-   * [General CDP UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
+
+   * [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
 
 
 
@@ -130,16 +130,14 @@ JTBD Map & Airtable (Coming soon)
 
 
 
-**CDP Airtable List of observed usability issues to date** 
+ 
 
-   * [CDP Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
-
-
+   * [Master list of CDP Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
 
 
 
 
-**CDP Usability V1 (Dai.dashboard.com —> (cdp.makerdao.com)** 
+
 
    * [CDP V1 Usability Report](https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit)  
 
