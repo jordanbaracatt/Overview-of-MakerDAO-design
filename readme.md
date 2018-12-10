@@ -252,7 +252,7 @@ Jobs to be Done | Mental models | Usability
 
 
 
-***Dai Savings Mental Models***  
+**Dai Savings Mental Models**  
 
 
 
@@ -262,7 +262,7 @@ Jobs to be Done | Mental models | Usability
 
 
 
-***Dai Savings Usability*** 
+**Dai Savings Usability** 
 
 
 
@@ -278,7 +278,7 @@ Jobs to be Done | Mental models | Usability
 
 
 
-* Our user profiles serve as a low fidelity and assumptive starting point to better understand the different types of people who may interact with the different interfaces within the Maker ecosystem * 
+*Our user profiles serve as a low fidelity and assumptive starting point to better understand the different types of people who may interact with the user interfaces within the Maker ecosystem* 
 
 
 
