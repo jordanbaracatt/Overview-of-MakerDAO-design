@@ -7,6 +7,8 @@ This page serves as a wiki for the MakerDAO design team. Its meant to serve both
 
 [Projects we're working on →](https://github.com/hcdoe/Overview-of-MakerDAO-design#projects-were-working-on)
 
+[Product Research →](https://github.com/hcdoe/Overview-of-MakerDAO-design#product-research)
+
 [Style guide →](https://github.com/hcdoe/Overview-of-MakerDAO-design#style-guide)
 
 [Writing →](https://github.com/hcdoe/Overview-of-MakerDAO-design#writing)
