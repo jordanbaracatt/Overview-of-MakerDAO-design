@@ -46,11 +46,12 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 *Maker team members can request access in design-internal*
 
 ### Product research 
+
+
 • **CDP portal** Jobs to be Done | Mental models | Usability 
 
-# CDP Portal
 
-Jobs to be Done | Mental models | Usability   
+**CDP Jobs To Be Done**
 
 **Jobs To Be Done is a way to understand what motivates users to seek and use CDPs.**  
 
@@ -60,6 +61,7 @@ How to use Jobs To Be Done? Jobs To Be Done can be used to help you think about 
 **Original JTBD Assumptions based on preliminary research** 
 
 [https://docs.google.com/document/d/1276EvcLbc8J96icTkaErVswNb53QSR4B2qD4XfwN--w/edit?usp=sharing](https://docs.google.com/document/d/1276EvcLbc8J96icTkaErVswNb53QSR4B2qD4XfwN--w/edit?usp=sharing) 
+
 
 New JTBD Map (Coming soon) 
 
@@ -71,6 +73,7 @@ New JTBD Map (Coming soon)
 How to use key moments? Understanding the points that users find to be particularly positive will help us reduce the amount of friction that we create along the path to the moment. [Here is a great post about key user moments.](https://alexiskold.net/2016/06/01/what-is-the-magic-moment-for-your-startup/) 
 
 (Airtable coming soon) 
+
 
 **CDP Mental Models**  
 
@@ -89,6 +92,7 @@ How to use key moments? Understanding the points that users find to be particula
 **CDP High level Insights and findings from users (Dai.dashboard.com —> [cdp.makerdao.com](http://cdp.makerdao.com))** 
 
 [https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
+
 
 **CDP Usability** 
 
