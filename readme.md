@@ -49,29 +49,16 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 ## Product research 
-Jobs To Be Done is a way to understand what motivates users to seek and use CDPs
-
+**Jobs To Be Done** is a way to understand what motivates users to seek and use CDPs
+*CDP Key Moments are the moments that we have observed to elicit the most positive emotion in user after a series of actions.*  
 
 ### CDP portal 
-Jobs to be Done | Mental models | Usability 
-
-
 
 •  **Jobs To Be Done**
 
+•  **JTBD Map & Airtable (Coming soon)**
 
-
-
-JTBD Map & Airtable (Coming soon) 
-
-
-
-**CDP Key Moments** 
-
-*CDP Key Moments are the moments that we have observed to elicit the most positive emotion in user after a series of actions.*  
-
-
-(Airtable coming soon) 
+•  **CDP Key Moments (Airtable coming soon)**
 
 
 
