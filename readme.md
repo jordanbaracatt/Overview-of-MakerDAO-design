@@ -119,17 +119,7 @@ Jobs to be Done | Mental models | Usability
 *Jobs To Be Done is a way to understand what motivates users to interact with the Maker Governance Interface.*  
 
 
-
-
-
-
-
-
 * [High Level Overview of Governance UI Jobs To Be Done](https://docs.google.com/document/d/1ScDOZ5o2AuJsiNapTkvXRMZzyGGXtvdZboyiuMU1oJM/edit) 
-
-
-
-
 
 
 * Governance UI Jobs To Be Done Map & Airtable (Coming soon) 
@@ -138,12 +128,9 @@ Jobs to be Done | Mental models | Usability
 **Governance Mental Models** 
 
 
-
 *Governance Mental models help us map what users are thinking, feeling and believing along their journey to particiapting in Governance. Such that we can build things they understand, from the moment they start searching to the moment they cast a vote.*  
 
-
 * Governance Mental Model Research & User Journey (*this research has not been completed yet*)    
-
 
 
 **Governance Usability** 
@@ -173,7 +160,6 @@ Jobs to be Done | Mental models | Usability
 * Dai Savings Job To Be Done Airtable (Coming soon) 
 
 
-
 **Dai Savings Mental Models**  
 
 * This product does not have enough use to conduct this type of research yet. 
@@ -192,7 +178,6 @@ Jobs to be Done | Mental models | Usability
 
 
 * [User Profiles](https://docs.google.com/document/d/1cy6CPDBj3_fA4Z8exOYUmALMWBdwyJmM18gT72gv4pY/edit) 
-
 
 
 *Maker team members can request access in design-internal*
@@ -218,7 +203,8 @@ These resources help unify brand, marketing, and product experience across Maker
 •  Dai yellow ![#FFC926](https://placehold.it/15/FFC926/000000?text=+) `#FFC926`
 
 ### Logos
-LINK
+•  [MKR icons](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/MKR)
+•  [Dai icons](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/DAI)
 
 ---
 
