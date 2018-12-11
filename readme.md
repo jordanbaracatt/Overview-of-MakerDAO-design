@@ -65,13 +65,13 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 **CDP Mental Models**  
 
-*CDP Mental models help us map what users are thinking, feeling and believing along their journey with CDPs such that we can build things they understand. From the moment they start searching to the moment they close their position.*  
+*Mental models help us map what users are thinking, feeling and believing along their journey with CDPs such that we can build things they understand. From the moment they start searching to the moment they close their position.*  
 
 
-   * [CDP Mental Models along the the user journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d)   
+   * [Mental Models along the the user journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d)   
 
 
-   * [CDP Onboarding Observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit)   
+   * [Onboarding Observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit)   
 
 
    * [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
@@ -81,23 +81,10 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 *Usability helps us answer the question: can users understand features and perform tasks that are fundamental to               successfully using the CDP Portal?*
 
-
-
-
-
-
- 
-
    * [Master list of CDP Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
 
 
-
-
-
-
    * [CDP V1 Usability Report](https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit)  
-
-
 
 
 ### Governance  
@@ -105,8 +92,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 Jobs to be Done | Mental models | Usability 
 
 
-
-**Governance Jobs To Be Done**  
+**Jobs To Be Done**  
 
 *Jobs To Be Done is a way to understand what motivates users to interact with the Maker Governance Interface.*  
 
@@ -117,15 +103,15 @@ Jobs to be Done | Mental models | Usability
 * Governance UI Jobs To Be Done Map & Airtable (Coming soon) 
 
 
-**Governance Mental Models** 
+**Mental Models** 
 
 
-*Governance Mental models help us map what users are thinking, feeling and believing along their journey to particiapting in Governance. Such that we can build things they understand, from the moment they start searching to the moment they cast a vote.*  
+*Mental models help us map what users are thinking, feeling and believing along their journey to particiapting in Governance. Such that we can build things they understand, from the moment they start searching to the moment they cast a vote.*  
 
 * Governance Mental Model Research & User Journey (*this research has not been completed yet*)    
 
 
-**Governance Usability** 
+**Usability** 
 
 
 *Usability helps us answer the question: can users understand features and perform tasks that are fundamental to               successfully using the Governance Interface?*   
@@ -140,7 +126,7 @@ Jobs to be Done | Mental models | Usability
 Jobs to be Done | Mental models | Usability 
 
   
-**Dai Savings Jobs To Be Done**  
+**Jobs To Be Done**  
 
 
 *Jobs To Be Done is a way to understand what motivates users to seek and use Dai Savings*  
