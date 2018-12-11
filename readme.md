@@ -49,19 +49,15 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 ## Product research 
+Jobs To Be Done is a way to understand what motivates users to seek and use CDPs
 
 
 ### CDP portal 
-
 Jobs to be Done | Mental models | Usability 
 
 
 
-**CDP Jobs To Be Done**
-
-*Jobs To Be Done is a way to understand what motivates users to seek and use CDPs.* 
-
-
+•  **Jobs To Be Done**
 
 
 
@@ -70,20 +66,12 @@ JTBD Map & Airtable (Coming soon)
 
 
 
-
-
-
 **CDP Key Moments** 
 
 *CDP Key Moments are the moments that we have observed to elicit the most positive emotion in user after a series of actions.*  
 
 
-
-
-
 (Airtable coming soon) 
-
-
 
 
 
@@ -177,15 +165,6 @@ Jobs to be Done | Mental models | Usability
 * Governance UI Jobs To Be Done Map & Airtable (Coming soon) 
 
 
-
-
-
-
-
-
-
-
-
 **Governance Mental Models** 
 
 
@@ -193,47 +172,23 @@ Jobs to be Done | Mental models | Usability
 *Governance Mental models help us map what users are thinking, feeling and believing along their journey to particiapting in Governance. Such that we can build things they understand, from the moment they start searching to the moment they cast a vote.*  
 
 
-
-
-
-
-
-
 * Governance Mental Model Research & User Journey (*this research has not been completed yet*)    
-
-
-
-
 
 
 
 **Governance Usability** 
 
 
-
-
-
-
 *Usability helps us answer the question: can users understand features and perform tasks that are fundamental to               successfully using the Governance Interface?*   
-
-
 
 
 * [Master List of all Governance Usability issues](https://airtable.com/invite/l?inviteId=invgrfZdDZk8f8V5M&inviteToken=0e12fe343433f1e1281908097d832034c037e938ab9490eda6795cfa125bf4f1)  
 
 
-
-
-
-
-
 ### Dai savings 
 
 
-
 Jobs to be Done | Mental models | Usability 
-
-
 
   
 **Dai Savings Jobs To Be Done**  
@@ -242,60 +197,31 @@ Jobs to be Done | Mental models | Usability
 *Jobs To Be Done is a way to understand what motivates users to seek and use Dai Savings*  
 
 
-
 * [Dai Savings Job To Be Done Maps (1 of 4)](https://www.figma.com/file/ZXwn0H9FOUUaaCKbwDgmetbN/JTBD-Template?node-id=33%3A3) 
-
 
 
 * Dai Savings Job To Be Done Airtable (Coming soon) 
 
 
 
-
-
-
 **Dai Savings Mental Models**  
 
-
-
-
 * This product does not have enough use to conduct this type of research yet. 
-
-
 
 
 **Dai Savings Usability** 
 
 
-
-
 * Master list of all Dai Savings Usability Issues (Coming soon) 
-
-
-
 
 
 ### General User Profiles 
 
 
-
-
 *Our user profiles serve as a low fidelity and assumptive starting point to better understand the different types of people who may interact with the user interfaces within the Maker ecosystem* 
 
 
-
-
-
-
-
 * [User Profiles](https://docs.google.com/document/d/1cy6CPDBj3_fA4Z8exOYUmALMWBdwyJmM18gT72gv4pY/edit) 
-
-
-
-
-
-
-
 
 
 
