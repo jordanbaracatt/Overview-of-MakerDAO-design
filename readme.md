@@ -49,32 +49,16 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 ## Product research 
-**Jobs To Be Done** is a way to understand what motivates users to seek and use CDPs
+_Jobs To Be Done is a way to understand what motivates users to seek and use CDPs_
 
-**CDP Key Moments** are the moments that we have observed to elicit the most positive emotion in user after a series of actions
+_Mental models help us map what users are thinking, feeling and believing along their journey with CDPs such that we can build things they understand. From the moment they start searching to the moment they close their position_  
+
 
 ### CDP portal 
 
-•  **Jobs To Be Done**
+•  **Jobs To Be Done** | JTBD Map & Airtable (coming soon) | CDP Key Moments (coming soon)
 
-•  **JTBD Map & Airtable (coming soon)**
-
-•  **CDP Key Moments (coming soon)**
-
-
-
-**CDP Mental Models**  
-
-*Mental models help us map what users are thinking, feeling and believing along their journey with CDPs such that we can build things they understand. From the moment they start searching to the moment they close their position.*  
-
-
-   * [Mental Models along the the user journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d)   
-
-
-   * [Onboarding Observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit)   
-
-
-   * [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
+•  **Mental Models** | [Mental Models along the the user journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d) | [Onboarding Observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit) | [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
 
 
 **CDP Usability** 
