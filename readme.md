@@ -77,10 +77,6 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
    * [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
 
 
-
-
-
-
 **CDP Usability** 
 
 *Usability helps us answer the question: can users understand features and perform tasks that are fundamental to               successfully using the CDP Portal?*
@@ -107,10 +103,6 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 ### Governance  
 
 Jobs to be Done | Mental models | Usability 
-
-
-
-
 
 
 
@@ -204,6 +196,7 @@ These resources help unify brand, marketing, and product experience across Maker
 
 ### Logos
 •  [MKR icons](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/MKR)
+
 •  [Dai icons](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/DAI)
 
 ---
