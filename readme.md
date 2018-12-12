@@ -69,17 +69,17 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-•  **Jobs To Be Done:** [CDP JTBD Pages](www.makerdao.com)  
+•  **Jobs To Be Done** [CDP JTBD Pages](www.makerdao.com)  
 
 
 
 
-•  **Mental Models:** [CDP User Journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d) | [CDP Key Moments (coming soon)](www.makerdao.com) 
+•  **Mental Models** [CDP User Journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d) | [CDP Key Moments (coming soon)](www.makerdao.com) 
 
 
 
 
-• **Usability** [Master list of CDP Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
+• **Usability** [CDP Master list of Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
 
 
 
@@ -128,7 +128,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-* [User Profiles](https://docs.google.com/document/d/1cy6CPDBj3_fA4Z8exOYUmALMWBdwyJmM18gT72gv4pY/edit) | [Onboarding observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit) | [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit) | [CDP V1 Usability Report](https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit)     
+* [User Profiles](https://docs.google.com/document/d/1cy6CPDBj3_fA4Z8exOYUmALMWBdwyJmM18gT72gv4pY/edit) | [ CDP Onboarding observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit) | [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit) | [CDP V1 Usability Report](https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit)     
 
 
 
@@ -143,7 +143,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-* **Product Resarch Resources**  [Coming soon...](www.makerdao.com) 
+* **Product Research Resources**  [Coming soon...](www.makerdao.com) 
 
 
 
