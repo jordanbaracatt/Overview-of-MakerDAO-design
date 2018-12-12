@@ -167,7 +167,7 @@ These resources help unify brand, marketing, and product experience across Maker
 ### Logos
 •  [MKR icons](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/MKR)
 
-•  [Dai icons](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/DAI)
+•  [DAI icons](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/DAI)
 
 ---
 
