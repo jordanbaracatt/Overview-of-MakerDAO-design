@@ -118,7 +118,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 • [ CDP Onboarding observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit)
 
-• [General CDP v1 UX Findings from user research (https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)
+• [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)
 
 • [CDP V1 Usability Report](https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit)     
 
@@ -129,7 +129,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-* **Product Thinking Tools** (Coming soon)
+* **Product Thinking Tools** (coming soon)
 
 
 
