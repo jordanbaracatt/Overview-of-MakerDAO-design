@@ -52,15 +52,15 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-* [Why is product research important?](www.makerdao.com) 
+* Why is product research important?
 
 
 
-* [How do I use product research?](www.makerdao.com) 
+* How do I use product research?
 
 
 
-* [Product Research FAQ](www.makerdao.com) 
+* Product Research FAQ
 
 
 
@@ -68,22 +68,22 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-•  **Jobs To Be Done** CDP JTBD Pages - coming soon  
+•  **Jobs To Be Done** JTBD Pages (coming soon) 
 
 
 
 
-•  **Mental Models** [CDP User Journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d) | CDP Key Moments - coming soon 
+•  **Mental Models** [User Journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d) | Key Moments (coming soon) 
 
 
 
-• **Usability** [CDP Master list of Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
+• **Usability** [Master list of Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
 
 
 ### Governance  
 
 
-• **Jobs To Be Done** [Governance JTBD Pages](https://docs.google.com/document/d/1ScDOZ5o2AuJsiNapTkvXRMZzyGGXtvdZboyiuMU1oJM/edit)
+• **Jobs To Be Done** [JTBD Pages](https://docs.google.com/document/d/1ScDOZ5o2AuJsiNapTkvXRMZzyGGXtvdZboyiuMU1oJM/edit)
 
 
 
@@ -91,7 +91,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-• **Usability**  [Governance Master List of all Usability issues](https://airtable.com/invite/l?inviteId=invgrfZdDZk8f8V5M&inviteToken=0e12fe343433f1e1281908097d832034c037e938ab9490eda6795cfa125bf4f1)  
+• **Usability**  [Master List of all Usability issues](https://airtable.com/invite/l?inviteId=invgrfZdDZk8f8V5M&inviteToken=0e12fe343433f1e1281908097d832034c037e938ab9490eda6795cfa125bf4f1)  
 
 
 
@@ -99,13 +99,13 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-• **Jobs To Be Done** [Dai Savings JTBD Pages](https://www.figma.com/file/ZXwn0H9FOUUaaCKbwDgmetbN/JTBD-Template?node-id=33%3A3) 
+• **Jobs To Be Done** [JTBD Pages](https://www.figma.com/file/ZXwn0H9FOUUaaCKbwDgmetbN/JTBD-Template?node-id=33%3A3) 
 
 
 • **Dai Savings Mental Models**  product does not have enough use to conduct this type of research yet
 
 
-• **Dai Savings Usability** Dai Savings Master list of all Usability Issues coming soon
+• **Dai Savings Usability** Dai Savings Master list of all Usability Issues (coming soon)
 
 
 
