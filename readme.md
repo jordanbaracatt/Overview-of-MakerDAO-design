@@ -69,7 +69,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-•  **Jobs To Be Done** [CDP JTBD Pages](www.makerdao.com)  
+•  **Jobs To Be Done** [CDP JTBD Pages - Coming Soon](www.makerdao.com)  
 
 
 
