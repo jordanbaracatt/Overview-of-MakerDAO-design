@@ -69,17 +69,17 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-•  **Jobs To Be Done:** [Map & Airtable (coming soon)](www.makerdao.com)| [Key Moments (coming soon)](www.makerdao.com) 
+•  **Jobs To Be Done:** [CDP JTBD Pages](www.makerdao.com)  
 
 
 
 
-•  **Mental Models:** [CDP User Journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d) | [Onboarding observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit) | [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
+•  **Mental Models:** [CDP User Journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d) | [CDP Key Moments (coming soon)](www.makerdao.com) 
 
 
 
 
-• **Usability** [Master list of CDP Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) | [CDP V1 Usability Report](https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit) 
+• **Usability** [Master list of CDP Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
 
 
 
@@ -89,19 +89,19 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-• **Jobs To Be Done** [High Level Overview of Governance UI Jobs To Be Done](https://docs.google.com/document/d/1ScDOZ5o2AuJsiNapTkvXRMZzyGGXtvdZboyiuMU1oJM/edit) | [Governance UI Jobs To Be Done Map & Airtable (Coming soon)](www.makerdao.com)
+• **Jobs To Be Done** [Governance JTBD Pages](https://docs.google.com/document/d/1ScDOZ5o2AuJsiNapTkvXRMZzyGGXtvdZboyiuMU1oJM/edit)
 
 
 
 
 
-• **Mental Models** Governance Mental Model Research & User Journey (*this research has not been completed yet*)   
+• **Mental Models** Governance User Journey (*this research has not been completed yet*) | Governance Key Moments (*this research has not been completed yet*) 
 
 
 
 
 
-• **Usability**  [Master List of all Governance Usability issues](https://airtable.com/invite/l?inviteId=invgrfZdDZk8f8V5M&inviteToken=0e12fe343433f1e1281908097d832034c037e938ab9490eda6795cfa125bf4f1)  
+• **Usability**  [Governance Master List of all Usability issues](https://airtable.com/invite/l?inviteId=invgrfZdDZk8f8V5M&inviteToken=0e12fe343433f1e1281908097d832034c037e938ab9490eda6795cfa125bf4f1)  
 
 
 
@@ -111,13 +111,13 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-• **Jobs To Be Done** [Dai Savings Job To Be Done Maps](https://www.figma.com/file/ZXwn0H9FOUUaaCKbwDgmetbN/JTBD-Template?node-id=33%3A3) | [Dai Savings Job To Be Done Airtable (Coming soon)](www.makerdao.com) 
+• **Jobs To Be Done** [Dai Savings JTBD Pages](https://www.figma.com/file/ZXwn0H9FOUUaaCKbwDgmetbN/JTBD-Template?node-id=33%3A3) 
 
 
 • **Dai Savings Mental Models**  This product does not have enough use to conduct this type of research yet. 
 
 
-• **Dai Savings Usability** [Master list of all Dai Savings Usability Issues (Coming soon)](www.makerdao.com)
+• **Dai Savings Usability** [Dai Savings Master list of all Usability Issues (Coming soon)](www.makerdao.com)
 
 
 
@@ -128,7 +128,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-* [User Profiles](https://docs.google.com/document/d/1cy6CPDBj3_fA4Z8exOYUmALMWBdwyJmM18gT72gv4pY/edit) 
+* [User Profiles](https://docs.google.com/document/d/1cy6CPDBj3_fA4Z8exOYUmALMWBdwyJmM18gT72gv4pY/edit) | [Onboarding observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit) | [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit) | [CDP V1 Usability Report](https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit)     
 
 
 
