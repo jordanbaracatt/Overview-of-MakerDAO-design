@@ -77,7 +77,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-• **Usability** [Master list of Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
+• **Usability** [Master List of usability issues](https://airtable.com/shrDjJvA5uahFnvBk) 
 
 
 ### Governance  
@@ -91,7 +91,7 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-• **Usability**  [Master List of all Usability issues](https://airtable.com/invite/l?inviteId=invgrfZdDZk8f8V5M&inviteToken=0e12fe343433f1e1281908097d832034c037e938ab9490eda6795cfa125bf4f1)  
+• **Usability**  [Master List of usability issues](https://airtable.com/invite/l?inviteId=invgrfZdDZk8f8V5M&inviteToken=0e12fe343433f1e1281908097d832034c037e938ab9490eda6795cfa125bf4f1)  
 
 
 
@@ -102,10 +102,10 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 • **Jobs To Be Done** [JTBD Pages](https://www.figma.com/file/ZXwn0H9FOUUaaCKbwDgmetbN/JTBD-Template?node-id=33%3A3) 
 
 
-• **Dai Savings Mental Models**  product does not have enough use to conduct this type of research yet
+• **Mental Models**  product does not have enough use to conduct this type of research yet
 
 
-• **Dai Savings Usability** Dai Savings Master list of all Usability Issues (coming soon)
+• **Usability** Master List of usability issues (coming soon)
 
 
 
