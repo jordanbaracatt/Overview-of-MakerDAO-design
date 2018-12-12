@@ -49,100 +49,110 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 ## Product research 
-_Jobs To Be Done is a way to understand what motivates users to seek and use CDPs_
 
-_Mental models help us map what users are thinking, feeling and believing along their journey with CDPs such that we can build things they understand. From the moment they start searching to the moment they close their position_  
+
+
+* [Why is product research important?](www.makerdao.com) 
+
+
+
+* [How do I use product research?](www.makerdao.com) 
+
+
+
+* [Product Research FAQ](www.makerdao.com) 
+
 
 
 ### CDP portal 
 
-•  **Jobs To Be Done:** Map & Airtable (coming soon) | Key Moments (coming soon)
-
-•  **Mental Models:** [Along the the user journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d) | [Onboarding observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit) | [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
 
 
-**CDP Usability** 
 
-*Usability helps us answer the question: can users understand features and perform tasks that are fundamental to               successfully using the CDP Portal?*
-
-   * [Master list of CDP Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
+•  **Jobs To Be Done:** [Map & Airtable (coming soon)](www.makerdao.com)| [Key Moments (coming soon)](www.makerdao.com) 
 
 
-   * [CDP V1 Usability Report](https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit)  
+
+
+•  **Mental Models:** [CDP User Journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d) | [Onboarding observations](https://docs.google.com/document/d/1vLxf7-Us0DjpKcv71njqaGQy_9Iz-MoLjgu5y4fvV_g/edit) | [General CDP v1 UX Findings from user research](https://docs.google.com/document/d/1JbCKkrKvyl6x0fOTWb5XPh4swJ8R6x3UbnCSNd8Bvsk/edit)    
+
+
+
+
+• **Usability** [Master list of CDP Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) | [CDP V1 Usability Report](https://docs.google.com/document/d/1MHMi33V0lKyZ9VIbEfEW-nb_tN0Y-Wy6amu7yDwqbdQ/edit) 
+
+
 
 
 ### Governance  
 
-Jobs to be Done | Mental models | Usability 
 
 
-**Jobs To Be Done**  
 
-*Jobs To Be Done is a way to understand what motivates users to interact with the Maker Governance Interface.*  
-
-
-* [High Level Overview of Governance UI Jobs To Be Done](https://docs.google.com/document/d/1ScDOZ5o2AuJsiNapTkvXRMZzyGGXtvdZboyiuMU1oJM/edit) 
+• **Jobs To Be Done** [High Level Overview of Governance UI Jobs To Be Done](https://docs.google.com/document/d/1ScDOZ5o2AuJsiNapTkvXRMZzyGGXtvdZboyiuMU1oJM/edit) | [Governance UI Jobs To Be Done Map & Airtable (Coming soon)](www.makerdao.com)
 
 
-* Governance UI Jobs To Be Done Map & Airtable (Coming soon) 
 
 
-**Mental Models** 
+
+• **Mental Models** Governance Mental Model Research & User Journey (*this research has not been completed yet*)   
 
 
-*Mental models help us map what users are thinking, feeling and believing along their journey to particiapting in Governance. Such that we can build things they understand, from the moment they start searching to the moment they cast a vote.*  
-
-* Governance Mental Model Research & User Journey (*this research has not been completed yet*)    
 
 
-**Usability** 
+
+• **Usability**  [Master List of all Governance Usability issues](https://airtable.com/invite/l?inviteId=invgrfZdDZk8f8V5M&inviteToken=0e12fe343433f1e1281908097d832034c037e938ab9490eda6795cfa125bf4f1)  
 
 
-*Usability helps us answer the question: can users understand features and perform tasks that are fundamental to               successfully using the Governance Interface?*   
 
-
-* [Master List of all Governance Usability issues](https://airtable.com/invite/l?inviteId=invgrfZdDZk8f8V5M&inviteToken=0e12fe343433f1e1281908097d832034c037e938ab9490eda6795cfa125bf4f1)  
 
 
 ### Dai savings 
 
 
-Jobs to be Done | Mental models | Usability 
 
-  
-**Jobs To Be Done**  
+• **Jobs To Be Done** [Dai Savings Job To Be Done Maps](https://www.figma.com/file/ZXwn0H9FOUUaaCKbwDgmetbN/JTBD-Template?node-id=33%3A3) | [Dai Savings Job To Be Done Airtable (Coming soon)](www.makerdao.com) 
 
 
-*Jobs To Be Done is a way to understand what motivates users to seek and use Dai Savings*  
+• **Dai Savings Mental Models**  This product does not have enough use to conduct this type of research yet. 
 
 
-* [Dai Savings Job To Be Done Maps (1 of 4)](https://www.figma.com/file/ZXwn0H9FOUUaaCKbwDgmetbN/JTBD-Template?node-id=33%3A3) 
+• **Dai Savings Usability** [Master list of all Dai Savings Usability Issues (Coming soon)](www.makerdao.com)
 
 
-* Dai Savings Job To Be Done Airtable (Coming soon) 
 
 
-**Dai Savings Mental Models**  
 
-* This product does not have enough use to conduct this type of research yet. 
-
-
-**Dai Savings Usability** 
+### General User Research 
 
 
-* Master list of all Dai Savings Usability Issues (Coming soon) 
-
-
-### General User Profiles 
-
-
-*Our user profiles serve as a low fidelity and assumptive starting point to better understand the different types of people who may interact with the user interfaces within the Maker ecosystem* 
 
 
 * [User Profiles](https://docs.google.com/document/d/1cy6CPDBj3_fA4Z8exOYUmALMWBdwyJmM18gT72gv4pY/edit) 
 
 
+
+
+
+### Product Tools & Resources 
+
+
+
+* **Product Thinking Tools**  [Coming soon...](www.makerdao.com) 
+
+
+
+
+* **Product Resarch Resources**  [Coming soon...](www.makerdao.com) 
+
+
+
+
+
 *Maker team members can request access in design-internal*
+
+
+
 
 ### Product feedback 
 
