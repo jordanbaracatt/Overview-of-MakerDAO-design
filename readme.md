@@ -77,15 +77,10 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-
 • **Usability** [CDP Master list of Usability Issues](https://airtable.com/shrDjJvA5uahFnvBk) 
 
 
-
-
 ### Governance  
-
-
 
 
 • **Jobs To Be Done** [Governance JTBD Pages](https://docs.google.com/document/d/1ScDOZ5o2AuJsiNapTkvXRMZzyGGXtvdZboyiuMU1oJM/edit)
@@ -124,32 +119,26 @@ We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. W
 
 
 
-
 ### Product Tools & Resources 
 
 
 
-* **Product Thinking Tools**  [Coming soon...](www.makerdao.com) 
+* **Product Thinking Tools** (Coming soon)
 
 
 
 
-* **Product Research Resources**  [Coming soon...](www.makerdao.com) 
-
-
+* **Product Research Resources** (coming soon)
 
 
 
 *Maker team members can request access in design-internal*
 
 
-
-
 ### Product feedback 
 
 We're always keep to hear from people using the Maker system. If you have any questions, suggestions or feedback you can find us in the Rocketchat room [#product-feedback](https://chat.makerdao.com/home)
 
-For Maker team members we are logging all [usability issues here →](https://docs.google.com/spreadsheets/d/18X4y-87m5flC9iH4RkWUXD64i_H-FM0QUHlEoiqhRxw/edit#gid=0)
 
 ---
 
