@@ -20,7 +20,7 @@ This page serves as a wiki for the MakerDAO design team. Its meant to serve both
 ---
 
 ## Design team
-We're a remote design team of 4. Currently located in Asia, UK, USA and Canda. We're looking to add an [experienced product designer](https://makerdao.com/careers/product-designer) to the team
+We are a remote design team of four. Currently located in Asia, UK, USA and Canda. We're looking to add an [experienced product designer](https://makerdao.com/careers/product-designer) to join the team
 
 •  **Henry Doe**, design team lead [@henry](https://chat.makerdao.com/home)
 
