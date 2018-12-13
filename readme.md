@@ -51,17 +51,13 @@ We are a remote design team of four. Currently located in Asia, UK, USA and Cand
 ## Product research 
 
 
-
 * Why is product research important?
-
 
 
 * How do I use product research?
 
 
-
 * Product Research FAQ
-
 
 
 ### CDP portal 
@@ -158,7 +154,7 @@ These resources help unify brand, marketing, and product experience across Maker
 
 •  Maker orange ![#F77249](https://placehold.it/15/F77249/000000?text=+) `#F77249`
 
-•  Dai yellow ![#FFC926](https://placehold.it/15/FFC926/000000?text=+) `#FFC926`
+•  Dai yellow ![#FDC134](https://placehold.it/15/FDC134/000000?text=+) `#FDC134`
 
 ### Logos
 •  [MKR icons](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/MKR)
