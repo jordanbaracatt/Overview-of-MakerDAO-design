@@ -198,6 +198,8 @@ A full list of [terms and definitions →](https://airtable.com/shr93DOZR1FHNJv4
 
 ## Useful links
 
+•  [Overview of MakerDAO →](https://github.com/makerdao/awesome-makerdao/blob/master/README.md)
+
 •  [What Is a Design System?](https://forumone.com/ideas/what-is-design-system)
 
 •  [What is Jobs to be Done (JTBD)?](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca) 
