@@ -51,7 +51,7 @@ We are a remote design team of four. Currently located in Asia, UK, USA and Cand
 ## Product research 
 
 
-* Why is product research important?
+* [Why is product research important?](https://docs.google.com/document/d/1SHCAXIla6fqaXFQ8LNTRLNrb5NFNvH5pG0Ho56MNCT8/edit) 
 
 
 * How do I use product research?
