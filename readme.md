@@ -157,9 +157,11 @@ These resources help unify brand, marketing, and product experience across Maker
 •  Dai yellow ![#FDC134](https://placehold.it/15/FDC134/000000?text=+) `#FDC134`
 
 ### Logos
-•  [MKR icons](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/MKR)
+• [Logo for MakerDAO](https://github.com/makerdao/Overview-of-MakerDAO-design/tree/master/MakerDAO). To be used for MakerDAO
 
-•  [DAI icons](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/DAI)
+• [Icon for MKR](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/MKR). To be used for MKR the token
+
+• [Icon for DAI](https://github.com/hcdoe/Overview-of-MakerDAO-design/tree/master/DAI). To be used for DAI the token
 
 ---
 
