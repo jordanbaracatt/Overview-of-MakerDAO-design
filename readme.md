@@ -69,11 +69,11 @@ We are a remote design team of four. Currently located in Asia, UK, USA and Cand
 
 
 
-•  **Mental Models** [User Journey](https://airtable.com/invite/l?inviteId=inv7kNdKPMhNLNw1b&inviteToken=2a80700bbf43635d6d5336265f7704b81fb4ec56202d59b0a569780d88c0c72d) | Key Moments (coming soon) 
+•  **Mental Models** [User Journey](https://airtable.com/invite/l?inviteId=invU5fbDDGigJjQAD&inviteToken=087d66c38aabee2be319f58bede8832f6989dba6ce5e43922af6bccd2c164379) | Key Moments (coming soon) 
 
 
 
-• **Usability** [Master List of usability issues](https://airtable.com/shrDjJvA5uahFnvBk) 
+• **Usability** [Master List of usability issues](https://airtable.com/invite/l?inviteId=invU5fbDDGigJjQAD&inviteToken=087d66c38aabee2be319f58bede8832f6989dba6ce5e43922af6bccd2c164379) 
 
 
 ### Governance  
@@ -87,7 +87,7 @@ We are a remote design team of four. Currently located in Asia, UK, USA and Cand
 
 
 
-• **Usability**  [Master List of usability issues](https://airtable.com/invite/l?inviteId=invgrfZdDZk8f8V5M&inviteToken=0e12fe343433f1e1281908097d832034c037e938ab9490eda6795cfa125bf4f1)  
+• **Usability**  [Master List of usability issues](https://airtable.com/invite/l?inviteId=invRNtf2iqZlbM2vB&inviteToken=bb511988a5159bff8b8cae5e56dcf195fbb93ba059e8521740acfe0f610cb968)   
 
 
 
